@@ -1,9 +1,3 @@
-# 标题一
-
-#标题一
-
-## 标题二
-
 # 程序说明
 ### 功能
 本程序用于对发票进行图像分类，以api形式供外界调用
@@ -11,8 +5,8 @@
 详见图表
 ![image][https://www.processon.com/view/link/5a290196e4b0f3a79867dd6b]
 
-# model address
-https://pan.baidu.com/s/1o7Nj1X4
+# 模型下载地址
+https://pan.baidu.com/s/1o7Nj1X4，下载的四个文件放到weightsFile下即可
 
 # 训练过程
 ### 建立训练样本
