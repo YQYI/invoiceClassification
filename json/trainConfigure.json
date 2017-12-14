@@ -1,0 +1,11 @@
+{
+  "classNum": "7",
+  "0": "增值税发票",
+  "1": "定额发票",
+  "2": "火车票",
+  "3": "银行回单",
+  "4": "长条发票",
+  "5": "飞机票",
+  "6": "高速发票",
+  "trainImageDir": "/home/yqyi/project/invoiceClassification/trainImage/first/"
+}
