@@ -2,3 +2,4 @@
 temp
 weightsFile/*
 ../../lingxi/
+src/__pycache__
