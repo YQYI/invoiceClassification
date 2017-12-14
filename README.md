@@ -16,11 +16,11 @@ https://pan.baidu.com/s/1o7Nj1X4，下载的四个文件放到weightsFile下即�
    修改项目根目录下的trainConfigure.json，将"trainImageDir"后面的内容替换
 为root的路径，如"/home/yqyi/root/",注意最后一个斜杠。
    按照新的类别名称修改其余内容
-###启动训练
+### 启动训练
    启动src/train.py即可开始训练
-###替换线上模型
+### 替换线上模型
    训练结果将默认存放在根目录下的logs文件夹，此文件夹为训练脚本建立，若存在，
    则会覆盖logs内同名的文件。训练结束后选取最后一次迭代产生的模型，替换掉根目录下
    weightsFile中的模型即可，名称必须一致。
-###修改线上配置文件
+### 修改线上配置文件
    修改项目根目录下的predictConfigure.json，按照新的分类标准修改其中内容
