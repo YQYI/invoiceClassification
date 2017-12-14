@@ -6,7 +6,8 @@
 ![image][https://www.processon.com/view/link/5a290196e4b0f3a79867dd6b]
 
 # 模型下载地址
-https://pan.baidu.com/s/1o7Nj1X4，下载的四个文件放到weightsFile下即可
+https://pan.baidu.com/s/1o7Nj1X4
+下载的四个文件放到weightsFile下即可
 
 # 训练过程
 ### 建立训练样本
