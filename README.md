@@ -1,24 +1,24 @@
 # 标题一
 
-#标题一#
+#标题一
 
 ## 标题二
 
-#程序说明
-###功能
+# 程序说明
+### 功能
 本程序用于对发票进行图像分类，以api形式供外界调用
-###分类流程
+### 分类流程
 详见图表
 ![image][https://www.processon.com/view/link/5a290196e4b0f3a79867dd6b]
 
-#model address
+# model address
 https://pan.baidu.com/s/1o7Nj1X4
 
-#训练过程
-###建立训练样本
+# 训练过程
+### 建立训练样本
    建立文件夹root，在root下建立与类别数相同的若干子文件夹，子文件夹名称为
 类别名称，将对应类别的图片放入对应文件夹
-###修改配置文件
+### 修改配置文件
    修改项目根目录下的trainConfigure.json，将"trainImageDir"后面的内容替换
 为root的路径，如"/home/yqyi/root/",注意最后一个斜杠。
    按照新的类别名称修改其余内容
